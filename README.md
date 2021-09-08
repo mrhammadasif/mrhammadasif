@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hammad</h1>
-<h3 align="center">CEO @ Nitroxis. Passionate frontend developer and UX Designer. In love with simplicity of Vue.js</h3>
+<h3 align="center">CEO @ Nitroxis. Passionate frontend developer and UX Designer. In love with simplicity of Flutter and Vue.js</h3>
 
 <p>Currently brewing/co-founding following startups</p>
 
@@ -21,21 +21,19 @@ Some domains I own, [contact me](mailto:hammad@nitroxis.com) if you want to offe
 
 - 🌱 I’m recently learned **Flutter**. Made more than 5 Full Scale Applications yet.
 
-- 👯 I’m looking to collaborate on **vue.js**
+- 📝 I am a Programming Skills Coach [hammad.guru](https://hammad.guru)
 
-- 🤝 I’m looking for help with [Vuetify UI](https://vuetify-ui.com)
+- 👨‍💻 All of my projects are available at [github/mrhammadasif](https://github.com/mrhammadasif)
 
-- 👨‍💻 All of my projects are available at [hammad.nitroxis.com](hammad.nitroxis.com)
-
-- 📝 I regularly write articles on [hammad.nitroxis.com](hammad.nitroxis.com)
-
-- 💬 Ask me about **vue.js, node.js, express.js, frontend UI**
+- 💬 Ask me about **anything related to improve your Programming and Coding Skills**
 
 - 📫 How to reach me **hammad@nitroxis.com**
 
-- ⚡ Fun fact **~~Trying to get rid of Caffiene addiction~~Finally Got rid of caffiene addiction**
+- ⚡ Fun fact **TEA, works like testosterone booster for me**
 
 <p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="dart" width="40"   height="40" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="dart" width="40"   height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"  alt="aws" width="40" height="40" />
 <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40"  height="40" />
 
