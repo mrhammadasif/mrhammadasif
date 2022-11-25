@@ -1,5 +1,5 @@
 <h3 align="center">Hi 👋, I'm Hammad Asif</h3>
-<p align="center">Entrepreneur, a passionate Web/Mobile Developer and UX Designer. I love Vue.js and Flutter</p>
+<p align="center">Entrepreneur, a passionate Web/Mobile Developer and UX Designer. I ❤️ TypeScript</p>
 <p align="center">
   <a href="https://twitter.com/mrhammadasif" target="blank">
     <img src="https://img.shields.io/twitter/follow/mrhammadasif?logo=twitter&style=for-the-badge" alt="mrhammadasif twitter followers" />    
@@ -9,7 +9,7 @@
   </a>
 </p>
 
-- 👨‍💻 Working full-time at EdGraph.com as **Frontend Developer (using Vue.js v3)** since 2016
+- 👨‍💻 Working full-time at EdGraph.com as **Frontend Developer (using Vue.js)** since 2016
 - 🔭 I’m currently bootstrapping a startup [A CRM for Services Providers to manage their customer base](thecustomer.app)
 - 👨‍💻 You can view my [Work and Experiences](https://github.com/mrhammadasif/mrhammadasif/blob/master/projects.md)
 - 💰 Available for freelance projects & definitely will love to work on these skills **Vue, Nuxt.js, Node.js, Nest.js, MongoDB, Express.js, Flutter**
