@@ -19,11 +19,14 @@
 - 💬 Discuss anything about **Technology and Science Fiction**
 - 📫 How to reach me `(facebook|github|twitter|youtube|instagram)/mrhammadasif`
 - 🌱 Next things to learn on my list are **Blockchain, Web3, Elasticsearch and AWS**
+- I've done some of the most challenging Projects using WordPress
 
-<br>
 <h2 align="center">Notable Skills</h2>
 <p align="center">most comfortable to work with or have a lot of experience in the following skills</p>
 <p align="center">
+  <a href="https://wordpress.org/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/wordpress/wordpress-icon.svg" alt="wordpress" width="40" height="40" />
+  </a>
   <a href="https://nuxtjs.org/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" alt="nuxtjs" width="40" height="40" />
   </a>
