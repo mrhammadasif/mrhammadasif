@@ -11,7 +11,7 @@
 
 - 👨‍💻 Working full-time at EdGraph.com as **Frontend Developer (using Vue.js v3)** since 2016
 - 🔭 I’m currently bootstrapping a startup [A CRM for Services Providers to manage their customer base](thecustomer.app)
-- 👨‍💻 Brief list of my experiences are available at [https://github.com/mrhammadasif/mrhammadasif/experiences.md](https://github.com/mrhammadasif/mrhammadasif/experiences.md)
+- 👨‍💻 You can view my [Work and Experiences](https://github.com/mrhammadasif/mrhammadasif/blob/master/projects.md)
 - 💰 Available for freelance projects & definitely will love to work on these skills **Vue, Nuxt.js, Node.js, Nest.js, MongoDB, Express.js, Flutter**
 - 🤝 I’ve helped dozens of startups to find the best solution for their audience **Some of them are EdGraph, Compareaquote.com, ISVMarket, Dobuy.pk, Chamber Motion, etc**. Helped a lot of Private and Public Organizations in Pakistan, USA, UK, and few others countries
 - 📝 I regularly share my coding tips on twitter [https://twitter.com/mrhammadasif](https://twitter.com/mrhammadasif)
