@@ -12,8 +12,9 @@
   </a>
 </p>
 
-- I ❤️ TypeScript, Node.js, WordPress, and Flutter
-- 👨‍💻 Working full-time at EdGraph.com as **Frontend Developer (using Vue.js)** since 2016
+- I ❤️ Vue.js, Node.js, WordPress, and Flutter
+- I prefer to use Types in JS – 🤓 TypeScript
+- 👨‍💻 Working full-time at EdGraph.com as **Full-Stack Developer (Vue.js, dotnet, Microservices)** since 2016
 - 🔭 I’m currently bootstrapping a startup [A CRM for Services Providers to manage their customer base](https://thecustomer.app)
 - 👨‍💻 You can view my [Work and Experiences](https://github.com/mrhammadasif/mrhammadasif/blob/master/projects.md)
 - 💰 Available for freelance projects & definitely will love to work on these skills **Vue, Nuxt.js, Node.js, Nest.js, MongoDB, Express.js, Flutter**
@@ -23,7 +24,7 @@
 - 💬 Discuss anything about **Technology and Science Fiction**
 - 📫 How to reach me `(facebook|github|twitter|youtube|instagram)/mrhammadasif`
 - 🌱 Next things to learn on my list are **Blockchain, Web3, Elasticsearch and AWS**
-- I've done some of the most challenging Projects using WordPress
+- I've done some of the most challenging projects using WordPress
 
 <h2 align="center">Notable Skills</h2>
 <p align="center">most comfortable to work with or have a lot of experience in the following skills</p>
