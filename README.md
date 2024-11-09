@@ -2,7 +2,7 @@
 <img src="https://user-images.githubusercontent.com/1535613/204051220-422fdba6-c758-4143-b450-18520a98f7b9.png" />
 </p>
 
-<p align="center">Hi 👋, I'm a passionate Web/Mobile Developer, UX Designer, Startup Accelerator, Programming Coach and Founder</p>
+<p align="center">Hi 👋, I'm a passionate Full Stack Developer, UX Designer, Startup Accelerator, Programming Coach and Founder</p>
 <p align="center">
   <a href="https://twitter.com/mrhammadasif" target="blank">
     <img src="https://img.shields.io/twitter/follow/mrhammadasif?logo=twitter&style=for-the-badge" alt="mrhammadasif twitter followers" />    
@@ -12,7 +12,7 @@
   </a>
 </p>
 
-- I ❤️ Vue.js, Node.js, WordPress, and Flutter
+- I ❤️ Vue.js, JavaScript/TypeScript, WordPress, and Flutter
 - I prefer to use Types in JS – 🤓 TypeScript
 - 👨‍💻 Working full-time at EdGraph.com as **Full-Stack Developer (Vue.js, dotnet, Microservices)** since 2016
 - 🔭 I’m currently bootstrapping a startup [A CRM for Services Providers to manage their customer base](https://thecustomer.app)
