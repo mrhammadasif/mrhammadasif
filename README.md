@@ -3,7 +3,7 @@
 <h1 align="center">Senior Web Developer | Full-Stack Engineer</h1>
 
 <p align="center">
-  <strong>Building scalable web applications with Nuxt.js, Vue.js, NestJS & Node.js</strong>
+  <strong>Building scalable web applications with Nuxt.js/Vue.js, NestJS & Node.js</strong>
 </p>
 
 <p align="center">
@@ -37,7 +37,10 @@ I'm a Senior Web Developer with 18+ years of experience building production-read
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nuxt,vue,js,ts,cs,nestjs,nodejs,mongo" />
+  <img src="https://skillicons.dev/icons?i=nuxt,vue,js,ts,nestjs,nodejs,mongo,vitest" />
+</p>
+<p align="center">
+  Nuxt.js · Vue.js · JavaScript · TypeScript · Nest.js · Node.js · MongoDB · Vitest
 </p>
 
 <br>
@@ -47,11 +50,12 @@ I'm a Senior Web Developer with 18+ years of experience building production-read
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,redis,tailwind,scss,rollup,vite,vitest,jest,wordpress,express,powershell,bash,php" />
+  <img src="https://skillicons.dev/icons?i=cs,docker,tailwind,scss,wordpress,express,powershell,bash,php" />
 </p>
 
 <p align="center">
-  <em>TypeScript • MongoDB • Express.js • Redis • Docker • Tailwind CSS</em>
+  <!-- cs,docker,tailwind,scss,wordpress,express,powershell,bash,php -->
+  C# · Docker · Tailwind CSS · SCSS · WordPress · Express.js · PowerShell · Bash · PHP
 </p>
 
 ---
