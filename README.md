@@ -23,8 +23,8 @@ I'm a Senior Web Developer with 18+ years of experience building production-read
 
 **What I bring to the table:**
 - End-to-end web application development from architecture to deployment
-- Production systems serving real users at companies like EdGraph, Compareaquote.com, ISVMarket, and Chamber Motion
-- Track record of helping startups and enterprises across Pakistan, USA, and UK ship products faster
+- Production systems serving real users at companies like EdGraph, Compareaquote.com, ISVMarket, Dobuy.pk and Chamber Motion
+- Track record of helping startups, government organizations and enterprises across Pakistan, USA, and UK ship products faster like GreenTV Entertainment, Prism Energy (Pvt) Ltd.,  Timberland, Standard Chartered Bank, Ufone, Government of KPK, and more
 
 📫 **Let's connect:** [Twitter](https://twitter.com/mrhammadasif) • [GitHub](https://github.com/mrhammadasif) • [Stack Overflow](https://stackoverflow.com/users/980291/hammad) • [Discord](https://discord.gg/xswVHe7AkJ)
 
