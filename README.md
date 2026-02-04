@@ -1,8 +1,9 @@
+<h1 align="center">Senior Web Developer | Full-Stack Engineer</h1>
+
 <p align="center">
-<img src="https://user-images.githubusercontent.com/1535613/204051220-422fdba6-c758-4143-b450-18520a98f7b9.png" />
+  <strong>Building scalable web applications with Nuxt.js, Vue.js, NestJS & Node.js</strong>
 </p>
 
-<p align="center">Hi 👋, I'm a passionate Full Stack Developer, UX Designer, Startup Accelerator, Programming Coach and Founder</p>
 <p align="center">
   <a href="https://twitter.com/mrhammadasif" target="blank">
     <img src="https://img.shields.io/twitter/follow/mrhammadasif?logo=twitter&style=for-the-badge" alt="mrhammadasif twitter followers" />    
@@ -12,232 +13,110 @@
   </a>
 </p>
 
-- I ❤️ Vue.js, JavaScript/TypeScript, WordPress, and Flutter
-- I prefer to use Types in JS – 🤓 TypeScript
-- 👨‍💻 Working full-time at EdGraph.com as **Full-Stack Developer (Vue.js, dotnet, Microservices)** since 2016
-- 🔭 I’m currently bootstrapping a startup [A CRM for Services Providers to manage their customer base](https://growbusiness.app)
-- 👨‍💻 You can view my [Work and Experiences](https://github.com/mrhammadasif/mrhammadasif/blob/master/projects.md)
-- 💰 Available for freelance projects & definitely will love to work on these skills **Vue, Nuxt.js, Node.js, Nest.js, MongoDB, Express.js, Flutter**
-- 🤝 I’ve helped dozens of startups to find the best solution for their audience **Some of them are EdGraph, Compareaquote.com, ISVMarket, Dobuy.pk, Chamber Motion, etc**. Helped a lot of Private and Public Organizations in Pakistan, USA, UK, and few others countries
-- 📝 I regularly share my coding tips on twitter [https://twitter.com/mrhammadasif](https://twitter.com/mrhammadasif)
-- ⚡ Fun fact **Enthusiastic Nerd; Love to talk about tech stuff for hours**
-- 💬 Discuss anything about **Technology and Science Fiction**
-- 📫 How to reach me `(facebook|github|twitter|youtube|instagram)/mrhammadasif`
-- 🌱 Next things to learn on my list are **Blockchain, Web3, Elasticsearch and AWS**
-- I've done some of the most challenging projects using WordPress
+---
 
-<h2 align="center">Notable Skills</h2>
-<p align="center">most comfortable to work with or have a lot of experience in the following skills</p>
+## About Me
+
+I'm a Senior Web Developer with 8+ years of experience building production-ready web applications for startups and enterprises. I specialize in delivering high-performance, scalable web solutions—from SSR-powered frontends to robust backend APIs.
+
+**What I bring to the table:**
+- End-to-end web application development from architecture to deployment
+- Production systems serving real users at companies like EdGraph, Compareaquote.com, ISVMarket, and Chamber Motion
+- Track record of helping startups across Pakistan, USA, and UK ship products faster
+
+📫 **Let's connect:** [Twitter](https://twitter.com/mrhammadasif) • [GitHub](https://github.com/mrhammadasif) • [Stack Overflow](https://stackoverflow.com/users/980291/hammad)
+
+---
+
+## Tech Stack
+
 <p align="center">
-  <a href="https://wordpress.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/wordpress/wordpress-icon.svg" alt="wordpress" width="40" height="40" />
-  </a>
+  <strong>Primary Stack</strong>
+</p>
+
+<p align="center">
   <a href="https://nuxtjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" alt="nuxtjs" width="40" height="40" />
+    <img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" alt="nuxtjs" width="50" height="50" />
   </a>
+  &nbsp;&nbsp;
   <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="50" height="50" />
   </a>
-  <a href="https://dart.dev" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40" />
-  </a>
-  <a href="https://flutter.dev" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40" />
-  </a>
+  &nbsp;&nbsp;
   <a href="https://nestjs.com/" target="_blank" rel="noreferrer">
-    <img src="https://nestjs.com/logo-small-gradient.d792062c.svg" alt="nestjs"
-      width="40" height="40" />
+    <img src="https://nestjs.com/logo-small-gradient.d792062c.svg" alt="nestjs" width="50" height="50" />
   </a>
+  &nbsp;&nbsp;
   <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" />
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="50" height="50" />
   </a>
 </p>
-<br><br>
-<details align="center">
-  <summary>View More detailed list of my Skills</summary>
-  <p align="center">
-    <a href="https://developer.android.com" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40" />
-    </a>
-    <a href="https://angular.io" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40" />
-    </a>
-    <a href="https://cordova.apache.org/" target="_blank" rel="noreferrer">
-      <img src="https://www.vectorlogo.zone/logos/apache_cordova/apache_cordova-icon.svg" alt="apachecordova" width="40" height="40" />
-    </a>
-    <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40" />
-    </a>
-    <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer">
-      <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40" />
-    </a>
-    <a href="https://babeljs.io/" target="_blank" rel="noreferrer">
-      <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40" />
-    </a>
-    <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
-      <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40" />
-    </a>
-    <a href="https://www.blender.org/" target="_blank" rel="noreferrer">
-      <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40" />
-    </a>
-    <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40" />
-    </a>
-    <a href="https://www.chartjs.org" target="_blank" rel="noreferrer">
-      <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40" />
-    </a>
-    <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp"
-        width="40" height="40" />
-    </a>
-    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" />
-    </a>
-    <a href="https://www.cypress.io" target="_blank" rel="noreferrer">
-      <img
-        src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40" />
-    </a>
-    <a href="https://d3js.org/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js"
-        width="40" height="40" />
-    </a>
-    <a href="https://dart.dev" target="_blank" rel="noreferrer">
-      <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40" />
-    </a>
-    <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40" />
-    </a>
-    <a href="https://www.electronjs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40" />
-    </a>
-    <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40" />
-    </a>
-    <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-      <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40" />
-    </a>
-    <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-      <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40" />
-    </a>
-      <a href="https://flutter.dev" target="_blank" rel="noreferrer">
-      <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40" />
-    </a>
-      <a href="https://cloud.google.com" target="_blank" rel="noreferrer">
-      <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40" />
-    </a>
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" />
-    </a>
-    <a href="https://graphql.org" target="_blank" rel="noreferrer">
-      <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40" />
-    </a>
-    <a href="https://gulpjs.com" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gulp/gulp-plain.svg" alt="gulp" width="40"
-        height="40" />
-    </a>
-    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" />
-    </a>
-    <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer">
-      <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator"
-        width="40" height="40" />
-    </a>
-    <a href="https://ionicframework.com" target="_blank" rel="noreferrer">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Ionic_Logo.svg" alt="ionic" width="40" height="40" />
-    </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" />
-    </a>
-    <a href="https://jestjs.io" target="_blank" rel="noreferrer">
-      <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40" />
-    </a>
-    <a href="https://kotlinlang.org" target="_blank" rel="noreferrer">
-      <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40" />
-    </a>
-      <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux"
-        width="40" height="40" />
-    </a>
-    <a href="https://mariadb.org/" target="_blank" rel="noreferrer">
-      <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40" />
-    </a>
-    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40" />
-    </a>
-    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" />
-    </a>
-    <a href="https://nestjs.com/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs"
-        width="40" height="40" />
-    </a>
-    <a href="https://www.nginx.com" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx"
-        width="40" height="40" />
-    </a>
-    <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" />
-    </a>
-    <a href="https://nuxtjs.org/" target="_blank" rel="noreferrer">
-      <img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" alt="nuxtjs" width="40" height="40" />
-    </a>
-    <a href="https://postman.com" target="_blank" rel="noreferrer">
-      <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40" />
-    </a>
-    <a href="https://pugjs.org" target="_blank" rel="noreferrer">
-      <img src="https://cdn.worldvectorlogo.com/logos/pug.svg" alt="pug" width="40" height="40" />
-    </a>
-    <a href="https://github.com/puppeteer/puppeteer" target="_blank" rel="noreferrer">
-      <img src="https://www.vectorlogo.zone/logos/pptrdev/pptrdev-official.svg" alt="puppeteer" width="40" height="40" />
-    </a>
-    <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" />
-    </a>
-    <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
-        <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40" />
-    </a>
-    <a href="https://redis.io" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40" />
-    </a>
-    <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass"
-        width="40" height="40" />
-    </a>
-    <a href="https://www.sketch.com/" target="_blank" rel="noreferrer">
-      <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="40" height="40" />
-    </a>
-      <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
-      <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40" />
-    </a>
-    <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-      <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40"
-        height="40" />
-    </a>
-    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" />
-    </a>
-    <a href="https://unity.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40" />
-    </a>
-    <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40" />
-    </a>
-    <a href="https://vuepress.vuejs.org/" target="_blank" rel="noreferrer">
-        <img
-        src="https://raw.githubusercontent.com/AliasIO/wappalyzer/master/src/drivers/webextension/images/icons/VuePress.svg" alt="vuepress" width="40" height="40" />
-    </a>
-    <a href="https://vuetifyjs.com/en/" target="_blank" rel="noreferrer">
-      <img src="https://bestofjs.org/logos/vuetify.svg" alt="vuetify" width="40" height="40" />
-    </a>
-    <a href="https://webpack.js.org" target="_blank" rel="noreferrer">
-      <img
-        src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40" />
-    </a>
-    <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer">
-      <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40" />
-    </a>
-  </p>
-</details>
+
+<p align="center">
+  <em>Nuxt.js • Vue.js • NestJS • Node.js</em>
+</p>
+
+<br>
+
+<p align="center">
+  <strong>Also Proficient In</strong>
+</p>
+
+<p align="center">
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" />
+  </a>
+  &nbsp;
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40" />
+  </a>
+  &nbsp;
+  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40" />
+  </a>
+  &nbsp;
+  <a href="https://redis.io" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40" />
+  </a>
+  &nbsp;
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40" />
+  </a>
+  &nbsp;
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40" />
+  </a>
+</p>
+
+<p align="center">
+  <em>TypeScript • MongoDB • Express.js • Redis • Docker • Tailwind CSS</em>
+</p>
+
+---
+
+## What I Do
+
+- 🚀 **Full-Stack Web Development** — Nuxt.js/Vue.js frontends + NestJS/Node.js backends
+- ⚡ **Performance Optimization** — SSR, lazy loading, caching strategies
+- 🏗️ **Scalable Architectures** — REST APIs, microservices, database design
+- 🔄 **End-to-End Delivery** — From requirements to production deployment
+
+---
+
+## Current Work
+
+- 👨‍💻 **Full-Stack Developer at [EdGraph](https://edgraph.com)** since 2016 — Building enterprise web platforms with Vue.js and microservices
+- 🔭 **Founder of [GrowBusiness](https://growbusiness.app)** — A SaaS CRM for service providers built with modern web technologies
+- 💼 **Open for freelance web projects** — Nuxt.js, Vue.js, NestJS, and Node.js
+
+---
+
+## Let's Build Something Great
+
+Looking for a web developer who can deliver production-ready applications? I'm available for freelance projects involving:
+
+- **Frontend**: Nuxt.js, Vue.js applications with SSR & performance optimization
+- **Backend**: NestJS & Node.js APIs with scalable architecture
+- **Full-Stack**: End-to-end web application development
+
+📧 Reach out via [Twitter DM](https://twitter.com/mrhammadasif) or connect on [LinkedIn](https://linkedin.com/in/mrhammadasif)
